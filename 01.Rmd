@@ -1,0 +1,14 @@
+---
+title: "R notes -- Day 1"
+author: "Hieu Phay"
+date: '2022-05-10'
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# R Objects
+# Working with vectors
+# Puzzle
