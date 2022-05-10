@@ -70,7 +70,7 @@ Type:
 - Boolean: `TRUE` or `FALSE`
 - Integer: e.g. `1`, `2`,...
 - Float: e.g. `1.0` (is annoying to compares)
-- Strings: e.g. `"I am a string!!"` ("\n" is a line break)
+- Strings: e.g. `"I am a string!!"`
 - ...
 
 
