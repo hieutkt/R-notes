@@ -2,13 +2,42 @@
 title: "R notes -- Day 1"
 author: "Hieu Phay"
 date: '2022-05-10'
-output: pdf_document
+output: 
+  pdf_document:
+    number_sections: true
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# R Objects
+# The philosophy of R
+
+R is a _functional_ programming language.
+
+Which means that it operates around the **object-function** metaphor
+
+Everything that exists in an R environment is an **object**
+Everything that happens inside an R environment is a **function**
+
+Today we delve into _objects_
+
+## Asssignment
+
+## Listing and removing objects
+
+## How to inspect things
+
 # Working with vectors
+
+The atomic object in R is a `vector`
+
+## Create a vectors
+
+## Concaternate vectors
+
+## Vector indexing
+
+## Everything is vectorized
+
 # Puzzle
